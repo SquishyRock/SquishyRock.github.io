@@ -1,0 +1,20 @@
+{
+  "main.js": "/static/js/main.4061b497.chunk.js",
+  "main.js.map": "/static/js/main.4061b497.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/js/2.b0926c85.chunk.js": "/static/js/2.b0926c85.chunk.js",
+  "static/js/2.b0926c85.chunk.js.map": "/static/js/2.b0926c85.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.2373e62af71ec063d1d096149660030a.js": "/precache-manifest.2373e62af71ec063d1d096149660030a.js",
+  "service-worker.js": "/service-worker.js",
+  "static/media/1fix.png": "/static/media/1fix.0aa68c46.png",
+  "static/media/2fix.png": "/static/media/2fix.03678142.png",
+  "static/media/3fix.png": "/static/media/3fix.e071965b.png",
+  "static/media/exercises.PNG": "/static/media/exercises.d3606135.PNG",
+  "static/media/first.png": "/static/media/first.22423314.png",
+  "static/media/login.PNG": "/static/media/login.ab441a64.PNG",
+  "static/media/second.png": "/static/media/second.881e9f78.png",
+  "static/media/workout.PNG": "/static/media/workout.124fddcd.PNG",
+  "static/media/workouts.PNG": "/static/media/workouts.40b6db62.PNG"
+}
