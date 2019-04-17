@@ -2,7 +2,7 @@
   "name": "build01",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://squishyrock.github.io/",
+  "homepage" : "https://squishyrock.github.io",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build" 
   },
   "eslintConfig": {
     "extends": "react-app"
